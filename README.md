@@ -61,9 +61,9 @@ An end-to-end hiring automation triggered by a Google Form submission. The AI re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jserdan&show_icons=true&theme=dark&bg_color=0D1117&title_color=2E6F52&icon_color=6FCF9E&text_color=EDF2EE&border_color=26362F&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jserdan&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=2E6F52&amp;icon_color=6FCF9E&amp;text_color=EDF2EE&amp;border_color=26362F&amp;hide_border=false&amp;count_private=true" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jserdan&theme=dark&background=0D1117&ring=2E6F52&fire=6FCF9E&currStreakLabel=6FCF9E&border=26362F&sideLabels=EDF2EE" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jserdan&amp;theme=dark&amp;background=0D1117&amp;ring=2E6F52&amp;fire=6FCF9E&amp;currStreakLabel=6FCF9E&amp;border=26362F&amp;sideLabels=EDF2EE" />
 
 </div>
 
@@ -88,7 +88,7 @@ I'm actively looking for my first automation client or remote VA role. If your t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E6F52&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2E6F52&amp;height=120&amp;section=footer" width="100%"/>
 
 *© 2026 Joshua Serdan · Built and maintained with AI-assisted workflows*
 
