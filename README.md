@@ -10,7 +10,32 @@
 
 📧 **[dansoyautomations@gmail.com](mailto:dansoyautomations@gmail.com)** · 💻 **[GitHub](https://github.com/jserdan)**
 
-</div>
+I direct the system, build the logic, and verify that it works.
+
+Currently building my freelance portfolio and looking for my first automation client or remote VA role.
+
+### What I Do
+
+* ⚙️ Build business process automations
+* 🤖 Integrate AI into repetitive workflows
+* 📊 Connect forms, spreadsheets, CRMs, and communication tools
+* 📧 Automate email and internal notifications
+* 🔀 Design multi-step routing and decision logic
+* 🧪 Test and troubleshoot workflow failures
+
+---
+
+## 🛠️ Tools I Build With
+
+| Category             | Tools                                               |
+| -------------------- | --------------------------------------------------- |
+| **Automation**       | Make.com · n8n · Zapier                             |
+| **AI**               | Google Gemini API · Claude API · Prompt Engineering |
+| **CRM & Scheduling** | HubSpot · Calendly                                  |
+| **Communication**    | Slack · Gmail                                       |
+| **Data**             | Google Sheets · Google Forms                        |
+| **Integration**      | Webhooks · REST APIs · Google Apps Script           |
+| **Development**      | GitHub · Node.js · JavaScript                       |
 
 ---
 
