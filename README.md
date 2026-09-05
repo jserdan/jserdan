@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-v2.svg" width="100%" alt="Joshua Serdan - AI Automation Specialist">
+<img src="./assets/header.gif" width="100%" alt="Joshua Serdan - AI Automation Specialist">
 
 </div>
 
