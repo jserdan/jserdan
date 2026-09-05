@@ -1,34 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E6F52&height=200&section=header&text=Dan%20Serdan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Automation%20Specialist%20%26%20Virtual%20Assistant&descAlignY=55&descColor=8FBFA4" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Building workflow systems that run quietly behind the scenes.
-
-*Aspiring AI Automation VA from Davao City, Philippines 🇵🇭 — open to remote work worldwide*
-
-</div>
-
----
-
-## 👋 About Me
-
-I got into automation by way of hardware troubleshooting — years of tracing a problem to its actual cause before touching anything. That same habit carries directly into automation work: most broken workflows aren't a code problem, they're a logic problem.
-
-I'm not a software engineer and I don't pretend to be. I build with no-code and low-code platforms paired with AI models for the parts that need judgment — reading a message, scoring a resume, drafting a reply. I direct the system and verify it works.
-
-Currently building my freelance portfolio and looking for my first automation client or remote VA role.
-
-```
-📍 Davao, Philippines        🌐 Open to remote work worldwide
-📬 dansoyautomations@gmail.com   🎓 IT Student — hardware background
-⚡ I build fully working automations without writing code from scratch
-```
 
 ---
 
@@ -58,7 +27,7 @@ A full customer support pipeline for a fictional online coffee shop. Incoming in
 
 **What it demonstrates:**
 - Multi-branch router logic with conditional escalation
-- AI classification + structured JSON output parsing
+- AI classification and structured JSON output parsing
 - SLA monitoring via scheduled independent scenario
 - Professional HTML email templates with dynamic content
 - Internal Slack alerting for ops team
@@ -72,7 +41,7 @@ An end-to-end hiring automation triggered by a Google Form submission. The AI re
 
 **What it demonstrates:**
 - Webhook-triggered workflow via Google Apps Script
-- Real resume-to-job-description AI matching (not generic scoring)
+- Real resume-to-job-description AI matching
 - Three-tier routing with different actions per branch
 - Personalized email generation per candidate tier
 - Clean Google Sheets logging with status tracking
@@ -92,9 +61,9 @@ An end-to-end hiring automation triggered by a Google Form submission. The AI re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jserdan&show_icons=true&theme=dark&bg_color=0D1117&title_color=2E6F52&icon_color=6FCF9E&text_color=EDF2EE&border_color=26362F&hide_border=false" height="165"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jserdan&theme=dark&background=0D1117&ring=2E6F52&fire=6FCF9E&currStreakLabel=6FCF9E&border=26362F" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jserdan&show_icons=true&theme=dark&bg_color=0D1117&title_color=2E6F52&icon_color=6FCF9E&text_color=EDF2EE&border_color=26362F&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jserdan&theme=dark&background=0D1117&ring=2E6F52&fire=6FCF9E&currStreakLabel=6FCF9E&border=26362F&sideLabels=EDF2EE" />
 
 </div>
 
@@ -119,8 +88,8 @@ I'm actively looking for my first automation client or remote VA role. If your t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E6F52&height=120&section=footer&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E6F52&height=120&section=footer" width="100%"/>
 
-*© 2026 Dan Serdan · Built and maintained with AI-assisted workflows*
+*© 2026 Joshua Serdan · Built and maintained with AI-assisted workflows*
 
 </div>
