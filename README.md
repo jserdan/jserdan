@@ -92,18 +92,6 @@ An end-to-end hiring automation triggered by a Google Form submission. The AI re
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jserdan&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;title_color=2E6F52&amp;icon_color=6FCF9E&amp;text_color=EDF2EE&amp;border_color=26362F&amp;hide_border=false&amp;count_private=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jserdan&amp;theme=dark&amp;background=0D1117&amp;ring=2E6F52&amp;fire=6FCF9E&amp;currStreakLabel=6FCF9E&amp;border=26362F&amp;sideLabels=EDF2EE" />
-
-</div>
-
----
-
 ## 📬 Let's Work Together
 
 I'm actively looking for my first automation client or remote VA role. If your team is spending time on tasks that software should be handling — let's talk.
