@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Joshua Serdan - AI Automation Specialist">
+<img src="./assets/header-v2.svg" width="100%" alt="Joshua Serdan - AI Automation Specialist">
 
 </div>
 
@@ -18,26 +18,26 @@ Currently building my freelance portfolio and looking for my first automation cl
 
 ### What I Do
 
-* ⚙️ Build business process automations
-* 🤖 Integrate AI into repetitive workflows
-* 📊 Connect forms, spreadsheets, CRMs, and communication tools
-* 📧 Automate email and internal notifications
-* 🔀 Design multi-step routing and decision logic
-* 🧪 Test and troubleshoot workflow failures
+- ⚙️ Build business process automations
+- 🤖 Integrate AI into repetitive workflows
+- 📊 Connect forms, spreadsheets, CRMs, and communication tools
+- 📧 Automate email and internal notifications
+- 🔀 Design multi-step routing and decision logic
+- 🧪 Test and troubleshoot workflow failures
 
 ---
 
 ## 🛠️ Tools I Build With
 
-| Category             | Tools                                               |
-| -------------------- | --------------------------------------------------- |
-| **Automation**       | Make.com · n8n · Zapier                             |
-| **AI**               | Google Gemini API · Claude API · Prompt Engineering |
-| **CRM & Scheduling** | HubSpot · Calendly                                  |
-| **Communication**    | Slack · Gmail                                       |
-| **Data**             | Google Sheets · Google Forms                        |
-| **Integration**      | Webhooks · REST APIs · Google Apps Script           |
-| **Development**      | GitHub · Node.js · JavaScript                       |
+| Category | Tools |
+|---|---|
+| **Automation** | Make.com · n8n · Zapier |
+| **AI** | Google Gemini API · Claude API · Prompt Engineering |
+| **CRM & Scheduling** | HubSpot · Calendly |
+| **Communication** | Slack · Gmail |
+| **Data** | Google Sheets · Google Forms |
+| **Integration** | Webhooks · REST APIs · Google Apps Script |
+| **Development** | GitHub · Node.js · JavaScript |
 
 ---
 
@@ -51,9 +51,9 @@ A customer support automation system for a fictional online coffee shop.
 
 Incoming inquiries are analyzed by AI and classified into:
 
-* Refund
-* Shipping
-* General
+- Refund
+- Shipping
+- General
 
 Each category follows a different workflow. High-priority refund requests trigger an immediate Slack escalation.
 
@@ -61,13 +61,13 @@ A separate scheduled scenario monitors SLA compliance every 4 hours, while a wee
 
 **What it demonstrates:**
 
-* Multi-branch router logic
-* AI classification
-* Structured JSON output
-* Conditional escalation
-* Scheduled SLA monitoring
-* Dynamic HTML email generation
-* Internal Slack notifications
+- Multi-branch router logic
+- AI classification
+- Structured JSON output
+- Conditional escalation
+- Scheduled SLA monitoring
+- Dynamic HTML email generation
+- Internal Slack notifications
 
 ---
 
@@ -79,32 +79,32 @@ An end-to-end hiring automation triggered by a candidate application.
 
 The workflow evaluates the candidate against the actual job description and produces a structured AI score.
 
-| Score | Tier         | Action                         |
-| ----: | ------------ | ------------------------------ |
-|  8–10 | 🟢 Strong    | Automatic interview invitation |
-|   5–7 | 🟡 Maybe     | Manual review via Slack        |
-|   1–4 | 🔴 Not a Fit | Personalized rejection email   |
+| Score | Tier | Action |
+|---:|---|---|
+| 8–10 | 🟢 Strong | Automatic interview invitation |
+| 5–7 | 🟡 Maybe | Manual review via Slack |
+| 1–4 | 🔴 Not a Fit | Personalized rejection email |
 
 Every submission is logged to Google Sheets together with the candidate information, score, tier, and AI evaluation.
 
 **What it demonstrates:**
 
-* Webhook-triggered workflows
-* Resume-to-job-description matching
-* AI evaluation and scoring
-* Three-tier conditional routing
-* Personalized email generation
-* Google Sheets data logging
-* Slack notifications
+- Webhook-triggered workflows
+- Resume-to-job-description matching
+- AI evaluation and scoring
+- Three-tier conditional routing
+- Personalized email generation
+- Google Sheets data logging
+- Slack notifications
 
 ---
 
 ## 🔨 Currently Building
 
-| Project                            | Tools                                    | Status      |
-| ---------------------------------- | ---------------------------------------- | ----------- |
-| **Lead-to-Close Sales Pipeline**   | Zapier · HubSpot · Calendly · Gemini API | 🔨 Building |
-| **Meeting Notes Action Extractor** | n8n · Claude API · Slack                 | 📋 Planned  |
+| Project | Tools | Status |
+|---|---|---|
+| **Lead-to-Close Sales Pipeline** | Zapier · HubSpot · Calendly · Gemini API | 🔨 Building |
+| **Meeting Notes Action Extractor** | n8n · Claude API · Slack | 📋 Planned |
 
 ---
 
@@ -112,11 +112,11 @@ Every submission is logged to Google Sheets together with the candidate informat
 
 I'm currently looking for:
 
-* Remote Virtual Assistant opportunities
-* AI Automation projects
-* Workflow automation clients
-* Small businesses that want to eliminate repetitive tasks
-* Teams looking to connect their existing tools
+- Remote Virtual Assistant opportunities
+- AI Automation projects
+- Workflow automation clients
+- Small businesses that want to eliminate repetitive tasks
+- Teams looking to connect their existing tools
 
 If your team is spending time on tasks that software should be handling — **let's talk.**
 
@@ -130,7 +130,7 @@ If your team is spending time on tasks that software should be handling — **le
 
 AI Automation Specialist & Virtual Assistant
 
-📧 **[dansoyautomations@gmail.com](mailto:dansoyautomations@gmail.com)**
+📧 **dansoyautomations@gmail.com**
 
 🇵🇭 **Davao City, Philippines**
 
